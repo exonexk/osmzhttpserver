@@ -1,4 +1,4 @@
-# OSMZ HTTP Server KLO0051 Lukáš Klobasa
+# OSMZ HTTP Server KLO0051
 
 Project HTTP Server with features:
 
