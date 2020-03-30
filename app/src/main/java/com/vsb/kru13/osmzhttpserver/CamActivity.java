@@ -58,7 +58,7 @@ public class CamActivity extends Activity {
         startStream.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               
+
                 timerTask.run();
             }
         });
